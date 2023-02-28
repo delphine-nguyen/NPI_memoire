@@ -16,3 +16,7 @@ On explique également comment sauvegarder un modèle dans un dossier en local e
 ## `tokenizer.ipynb`
 
 Ce notebook décompose les étapes effectuées par `tokenizer` pour mieux comprendre ce qu'il se passe.
+
+## `padding_attention_mask`
+
+Ce notebook explique à quoi sert le padding et qu'est-ce qu'un "attention mask".
