@@ -13,3 +13,6 @@ Dans ce notebook, plusieurs manières d'instancier un modèle sont expliquées :
 
 On explique également comment sauvegarder un modèle dans un dossier en local et comment le recharger.
 
+## `tokenizer.ipynb`
+
+Ce notebook décompose les étapes effectuées par `tokenizer` pour mieux comprendre ce qu'il se passe.
