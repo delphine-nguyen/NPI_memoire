@@ -1,4 +1,4 @@
-token,label
+tokens,labels
 I,O
 do,O
 not,O
@@ -46,7 +46,7 @@ John,O
 doesn't,O
 have,O
 any,B-NPI
-friens,O
+friends,O
 .,O
 #,#
 Few,O
